@@ -5,7 +5,7 @@
 
 | **APP STORE** |   
 | -------------- | 
-- [Google Play](#App-Store)
+- [Google Play](#Aurora-Store)
 - F-droid 
 
 | **SYSTEM** |
@@ -109,7 +109,7 @@
 # APPS:
 
 #### App Store
-- [Aurora Store](https://f-droid.org/packages/com.aurora.store/)
+- ##### [Aurora Store](https://f-droid.org/packages/com.aurora.store/)
 - [**Neo Store**](https://f-droid.org/packages/com.machiav3lli.fdroid/)
 
 
