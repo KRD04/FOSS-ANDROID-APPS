@@ -5,7 +5,7 @@
 
 | **APP STORE** |   
 | -------------- | 
-- Google Play 
+- [Google Play](#**Aurora-Store**)
 - F-droid 
 
 | **SYSTEM** |
@@ -249,9 +249,12 @@ gulp build --prod
 
 Generating pre-built zip archives for distribution:
 
-```sh
-gulp build dist --prod
-```
+
+gulp build dist --prod- 
+
+
+
+[**Aurora Store**](https://f-droid.org/packages/com.aurora.store/)
 
 ## Docker
 
