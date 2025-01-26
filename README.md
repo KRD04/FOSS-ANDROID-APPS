@@ -5,7 +5,7 @@
 
 | **APP STORE** |   
 | -------------- | 
-- [Google Play](#Aurora-Store)
+- [Google Play](#-Aurora-Store-)
 - F-droid 
 
 | **SYSTEM** |
