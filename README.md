@@ -5,7 +5,7 @@
 
 | **APP STORE** |   
 | -------------- | 
-- [Google Play](#App Store)
+- [Google Play](#App-Store)
 - F-droid 
 
 | **SYSTEM** |
