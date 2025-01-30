@@ -20,36 +20,36 @@ To help out with this project:
 | -------------- | 
 - [CAMERA](#Camera)
 - [CLOCK](#Clock)
-- [DOC & PDF VIEWER](#Doc-&-PDF-Viewer)
+- [DOC & PDF VIEWER](#Doc-and-PDF-Viewer)
 - [EMAIL CLIENT](#Email-Client)
 - [CALCULATOR](#Calculator)
 - [DICTIONARY](#Dictionary)
 - [DOWNLOADER](#Downloader)
 - [FILE SAHRING](#File-Sharing)
 - [FILE MANAGER](#File-Manager)
-- [BARCODE & QR SCANNER](#Barcode-&-QR-Scanner)
+- [BARCODE & QR SCANNER](#Barcode-and-QR-Scanner)
 - [KEYBOARD](#Keyboard)
 - [TRANSLATION](#Translation)
 - [VOICE RECORDER](#Voice-Recorder)
-- [MAPS & NAVIGATION](#Maps-&-Navigation)
+- [MAPS & NAVIGATION](#Maps-and-Navigation)
 - [CALENDAR](#Calendar)
 - [WEATHER](#Weather)
 
 | **COMMUNICATION** |
 | -------------- | 
 - [CONTACTS](#Contacts)
-- [PHONE & DIALER](#Phone & Dialer)
+- [PHONE & DIALER](#Phone-and-Dialer)
 - [SMS](#SMS)
-- [SPAM CALLS BLOCKER & FILTER](#Spam-Calls-Blocker-&-Filter)
+- [SPAM CALLS BLOCKER & FILTER](#Spam-Calls-Blocker-and-Filter)
 
 | **MEDIA & ENTERTAINMENT** |
 | -------------- | 
 - [E-BOOKS](#E-books)
 - [IMAGE VIEWER/ GALLERY](#Image-Viewer/Gallery)
 - [MUSIC PLAYER](#Music-Player)
-- [PAINT & DRAWING](#Paint-&-Drawing)
-- [ANIME & MANGA](#Anime-&-Manga)
-- [PODCAST & AUDIOBOOK](#Podcast-&-Audiobook)
+- [PAINT & DRAWING](#Paint-and-Drawing)
+- [ANIME & MANGA](#Anime-and-Manga)
+- [PODCAST & AUDIOBOOK](#Podcast-and-Audiobook)
 - [RSS READER](#RSS-Reader)
 - [SPOTIFY](#Spotify)
 - [TORRENT](#Torrent)
@@ -96,7 +96,7 @@ To help out with this project:
 - [HABIT TRACKER](#Habit-Tracker)
 - [HEALTH](#Health)
 - [MOBILE WALLET](#Mobile-Wallet)
-- [NOTES AND TO DO](#Notes-&-To-Do)
+- [NOTES AND TO DO](#Notes-and-To-Do)
 
 | **UTILITIES** |
 | -------------- | 
@@ -128,7 +128,7 @@ To help out with this project:
 - ### Clock
     - ##### [Chrono](https://f-droid.org/packages/com.vicolo.chrono/)
     - ##### [Fossify Clock](https://f-droid.org/packages/org.fossify.clock/)
-- ### Doc & PDF Viewer
+- ### Doc and PDF Viewer
     - ##### [Mj PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
     - ##### [Libre Office Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/)
 - ### Email Client
@@ -149,7 +149,7 @@ To help out with this project:
 - ### File Manager
     - ##### [Fossify File Manager](https://f-droid.org/packages/org.fossify.filemanager/)
     - ##### [Amaze](https://f-droid.org/packages/com.amaze.filemanager/)
-- ### Barcode & QR Scanner
+- ### Barcode and QR Scanner
     - ##### [Barcode Scanner](https://f-droid.org/packages/com.atharok.barcodescanner/)
     - ##### [Catima](https://f-droid.org/packages/me.hackerchick.catima/)
 - ### Keyboard
@@ -161,7 +161,7 @@ To help out with this project:
 - ### Voice Recorder
     - ##### [Fossify](https://f-droid.org/packages/org.fossify.voicerecorder/)
     - ##### [Recording Studio](https://f-droid.org/packages/io.github.leonidius20.recorder.lite/)
-- ### Maps & Navigation
+- ### Maps and Navigation
     - ##### [Gmaps WV](https://f-droid.org/packages/us.spotco.maps/)
     - ##### [Organic Maps](https://f-droid.org/packages/app.organicmaps/)
 - ### Calendar
@@ -175,13 +175,13 @@ To help out with this project:
 - ### Contacts
     - ##### [Fossify Contacts](https://f-droid.org/packages/org.fossify.contacts/)
     - ##### [Connect You](https://f-droid.org/packages/com.bnyro.contacts/)
-- ### Phone & Dialer
+- ### Phone and Dialer
     - ##### [Fossify Phone](https://f-droid.org/packages/org.fossify.phone/)
     - ##### [Amadz](https://github.com/msusman1/Amadz/)
 - ### SMS
     - ##### [Fossify SMS](https://f-droid.org/packages/org.fossify.messages/)
     - ##### [Quick](https://f-droid.org/packages/dev.octoshrimpy.quik/)
-- ### Spam Calls Blocker & Filter
+- ### Spam Calls Blocker and Filter
     - ##### [Silence](https://f-droid.org/packages/me.lucky.silence/)
     - ##### [Spam Blocker](https://f-droid.org/packages/spam.blocker/)
 
@@ -195,13 +195,13 @@ To help out with this project:
 - ### Music Player
     - ##### [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/)
     - ##### [Mucke](https://f-droid.org/packages/rocks.mucke/)
-- ### Paint & Drawing
+- ### Paint and Drawing
     - ##### [Fossify Paint](https://f-droid.org/packages/org.fossify.paint/)
     - ##### [Free Paint](https://f-droid.org/packages/io.github.pastthepixels.freepaint/)
-- ### Anime & Manga
+- ### Anime and Manga
     - ##### [Kotatsu](https://f-droid.org/packages/org.koitharu.kotatsu/)
     - ##### [Moelist](https://apt.izzysoft.de/fdroid/index/apk/com.axiel7.moelist/)
-- ### Podcast & Audiobook
+- ### Podcast and Audiobook
     - ##### [Antenna Pod](https://f-droid.org/packages/de.danoeh.antennapod/)
     - ##### [Focus Podcast](https://f-droid.org/packages/allen.town.focus.podcast/)
 - ### RSS Reader
@@ -286,13 +286,13 @@ To help out with this project:
 - ### Finance Tracker
     - ##### [Green Stash](https://f-droid.org/packages/com.starry.greenstash/)
     - ##### [Monekin](https://github.com/enrique-lozano/Monekin/)
-- ### habit Tracker
+- ### Habit Tracker
     - ##### [Table Habit](https://f-droid.org/packages/io.github.friesi23.mhabit/)
     - ##### [loop habit Tracker](https://f-droid.org/packages/org.isoron.uhabits/)
 - ### Health
     - ##### [Food-e](https://github.com/SuhasDissa/Food-E-App/)
     - ##### [Feeel](https://f-droid.org/packages/com.enjoyingfoss.feeel/)
-- ### Notes & To Do
+- ### Notes and To Do
     - ##### [Joplin](https://f-droid.org/packages/net.cozic.joplin/)
     - ##### [Easy Notes](https://f-droid.org/packages/com.kin.easynotes/)
 
